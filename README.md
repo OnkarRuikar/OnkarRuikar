@@ -1,7 +1,9 @@
 <p align="right">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/><br/>
   <a href="https://github.com/sponsors/OnkarRuikar" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/badge/-Sponsor-fafbfc?logo=GitHub%20Sponsors" title="Sponsor Onkar" />
+    <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" />
+  </a><br>
+  <a href="https://github.com/sponsors/OnkarRuikar" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-Sponsor-fafbfc?logo=GitHub%20Sponsors" title="Sponsor Onkar" />
   </a>&nbsp;&nbsp;
 </p>
 
@@ -23,7 +25,7 @@ I am a software engineer. Currently exploring web technologies and contributing 
 
 <p align="left">
   <a href="mailto:onkarruikar@gmail.com" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.icons8.com/color/48/000000/gmail-new.png" width="30" title="Mail me" />
+    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" width="30" title="Mail me" />
   </a>
   <a href="https://stackoverflow.com/users/15273968" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/stackoverflow.png" width="30" title="Stack Overflow" />

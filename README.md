@@ -27,8 +27,5 @@ I am a software engineer. Currently exploring web technologies and contributing 
   <a href="mailto:onkarruikar@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.icons8.com/color/48/000000/gmail-new.png" width="30" title="Mail me" />
   </a>
-  <a href="https://stackoverflow.com/users/15273968" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/stackoverflow.png" width="30" title="Stack Overflow" />
-  </a>
 </p>
 <p align="right"><img src="https://komarev.com/ghpvc/?username=onkarruikar&label=Profile%20views&color=0e75b6&style=flat" alt="onkarruikar" /> </p>

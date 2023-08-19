@@ -20,7 +20,7 @@ I am a software engineer. Currently exploring web technologies and contributing 
 
 ### :chart_with_upwards_trend: Stats
 
-![Github activity graph](https://activity-graph.herokuapp.com/graph?username=onkarruikar&theme=react-dark&hide_border=true&color=BDDFFF&line=6E93B5&point=BDDFFF)
+![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=onkarruikar&theme=react-dark&hide_border=true&color=BDDFFF&line=6E93B5&point=BDDFFF)
 
 
 <p align="left">
